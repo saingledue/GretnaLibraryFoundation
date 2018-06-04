@@ -7,47 +7,39 @@
 body {
     background-color: lightgoldenrodyellow;
 }
-#imagecollection {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-#historybutton {
-    width: 300px;
-    height: 250px;
-    float: right;
-}
-#donatebutton{
-    width: 300px;
-    height: 250px;
-    position: center;
-}
-#proofbutton {
-    width: 300px;
-    height: 250px;
-    float: left;
-}
-#test{
-    font-weight: bold;
-}
-#historybutton{
-    float:left;
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #494949;
 }
 
-
-div.gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
+li {
     float: left;
-    width: 180px;
 }
-    div.gallery img {
-        width: 100%;
-        height: auto;
+
+    li a {
+        display: block;
+        color: Black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-family: Arial;
     }
 
-div.desc {
-    padding: 15px;
+.active {
+    display: block;
+    color: white;
     text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial;
+    border-style: solid;
+    border-width: 2px;
+}
+
+li a:hover {
+    background-color: #d34200;
 }
