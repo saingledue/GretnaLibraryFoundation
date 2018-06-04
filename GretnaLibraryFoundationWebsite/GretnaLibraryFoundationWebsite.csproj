@@ -80,20 +80,14 @@
     <Content Include="aboutcampaign.html" />
     <Content Include="contact.html" />
     <Content Include="history.html" />
-    <Content Include="Images\aboutcampaign.PNG" />
-    <Content Include="Images\contact.PNG" />
-    <Content Include="Images\donatebutton.PNG" />
-    <Content Include="Images\history.PNG" />
-    <Content Include="Images\home.PNG" />
-    <Content Include="Images\mission.PNG" />
-    <Content Include="Images\proof.PNG" />
-    <Content Include="Images\vision.PNG" />
+    <Content Include="Images\GretnaLogo.jpg" />
     <Content Include="Index.html" />
     <Content Include="mission.html" />
     <Content Include="proof.html" />
     <Content Include="Styles\history.css" />
     <Content Include="Styles\index.css" />
     <Content Include="Styles\proof.css" />
+    <Content Include="Styles\universal.css" />
     <Content Include="vision.html" />
     <Content Include="Web.config" />
   </ItemGroup>

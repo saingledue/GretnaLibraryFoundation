@@ -1,28 +1,51 @@
-﻿html {
+﻿h1 {
+    color: #111;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 36px;
+    text-decoration: none;
+}
+#slogan {
+    color: #7a7a7a;
+    font-size: 14px;
+    margin: 0 270px 3.65625em 0;
+}
+#gretnaLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html {
     background-color: darkgreen;
 }
 .paragraph{
     background-color:lightgoldenrodyellow;
 }
 body {
-    background-color: lightgoldenrodyellow;
+   background-color: #eee;
 }
 
+
 ul {
+    text-align: center;
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #494949;
+    background-color: #252525;
 }
 
 li {
-    float: left;
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+   /*float: left;*/
 }
 
     li a {
         display: block;
-        color: Black;
+        color: #eee;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
