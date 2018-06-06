@@ -10,7 +10,7 @@ h1 {
 }
 #slogan {
     color: #7a7a7a;
-    font-size: 14px;
+    font-size: 20px;
     /*margin: 0 270px 3.65625em 0;*/
     text-align: center;
 }
@@ -20,7 +20,7 @@ img {
     margin-right: auto;
     position: center;
     padding-top: 10px;
-    padding-bottom 10px;
+    padding-bottom: 10px;
 }
 
 html {
@@ -30,9 +30,12 @@ html {
     background-color:lightgoldenrodyellow;
 }
 body {
-   background-color: #eee;
-   padding-left: 100px;
-   padding-right: 100px;
+    border-width: 0px, 50px, 0px, 50px;
+    border-left-color: #869b50;
+    border-right-color: #869b50;
+    background-color: #eee;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 
