@@ -81,5 +81,6 @@ li {
 }
 
 li a:hover {
-    background-color: #d34200;
+    background-color: #eee;
+    color: green;
 }
