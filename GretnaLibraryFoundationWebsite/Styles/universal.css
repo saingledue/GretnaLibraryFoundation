@@ -43,5 +43,6 @@ li {
 }
 
 li a:hover {
-    background-color: #d34200;
+    background-color: white;
+    color: green;
 }
