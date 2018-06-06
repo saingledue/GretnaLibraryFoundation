@@ -73,5 +73,6 @@ li {
 }
 
 li a:hover {
-    background-color: #d34200;
+    background-color: White;
+    color:green;
 }
