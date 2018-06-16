@@ -30,12 +30,12 @@ html {
     background-color:lightgoldenrodyellow;
 }
 body {
-    border-width: 0px, 50px, 0px, 50px;
-    border-left-color: #869b50;
-    border-right-color: #869b50;
+    border-width: 0px, 100px, 0px, 100px;
+    width: 1150px;
+    height: 80%;
     background-color: #eee;
-    padding-left: 20px;
-    padding-right: 20px;
+    margin:auto;
+    
 }
 
 
@@ -50,8 +50,9 @@ ul {
 
 li {
     display: inline-block;
-    padding-left: 50px;
-    padding-right: 50px;
+    /*padding-left: 50px;
+    padding-right: 50px;*/
+    width: 125px;
    /*float: left;*/
 }
 
@@ -64,18 +65,18 @@ li {
         font-family: Arial;
     }
 
-.active {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-family: Arial;
-    border-style: solid;
-    border-width: 2px;
+#active {
+    color: lightgreen;
+    font-weight: bold;
 }
 
 li a:hover {
     background-color: #eee;
     color: green;
+}
+
+webpage {
+    margin-left: 100px;
+    margin-right: 100px;
+
 }
