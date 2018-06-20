@@ -1,4 +1,8 @@
-﻿#Content {
+﻿.textcenter {
+    text-align: center;
+}
+
+#Content {
     padding-bottom: 10px;
 }
 
