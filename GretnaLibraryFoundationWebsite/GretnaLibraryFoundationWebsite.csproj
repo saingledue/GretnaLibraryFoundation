@@ -80,6 +80,7 @@
     <Content Include="aboutcampaign.html" />
     <Content Include="contact.html" />
     <Content Include="history.html" />
+    <Content Include="Images\donateButton.png" />
     <Content Include="Images\GretnaLogo.jpg" />
     <Content Include="Index.html" />
     <Content Include="mission.html" />
