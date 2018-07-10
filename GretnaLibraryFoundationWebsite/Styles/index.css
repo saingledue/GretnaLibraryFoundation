@@ -1,11 +1,4 @@
-﻿.row {
-    display: flex;
-}
-
-.column {
-    
-    margin: auto;
-}
+﻿
 #donateButton{
     float: right;
     width:100px;

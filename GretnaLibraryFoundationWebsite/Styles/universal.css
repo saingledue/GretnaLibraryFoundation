@@ -2,10 +2,6 @@
     text-align: center;
 }
 
-#Content {
-    padding-bottom: 10px;
-}
-
 h1 {
     color: #111;
     font-size: 30px;
@@ -152,4 +148,27 @@ webpage {
 .dropdown:hover .dropbtn {
     background-color: #eee;
     color: green;
+}
+
+
+/*index css*/
+
+#Content {
+    text-align: center;
+}
+
+#donate {
+    width: 100px;
+    height: 100px;
+    margin-left: 1150px;
+}
+
+.gret {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
 }
