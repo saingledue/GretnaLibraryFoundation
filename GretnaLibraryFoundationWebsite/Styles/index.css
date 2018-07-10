@@ -44,7 +44,7 @@ html {
 }
 body {
     border-width: 0px, 100px, 0px, 100px;
-    width: 1150px;
+    width: 1250px;
     height: 80%;
     background-color: #eee;
     margin:auto;
@@ -94,7 +94,12 @@ webpage {
 
 }
 .dropdown {
-    
+    display: inline-block;
+    color: #eee;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial;
 }
 
     .dropdown .dropbtn {
@@ -108,7 +113,7 @@ webpage {
 .dropdown-content {
     display: none;
     position: absolute;
-    /*background-color: #f9f9f9;*/
+    background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -125,20 +130,27 @@ webpage {
 
         .dropdown-content a:hover {
             background-color: #eee;
+            background-color: #eee;
+            color: green;
         }
 
 .dropdown:hover .dropdown-content {
     display: block;
+    background-color: #eee;
+    color: green;
 }
 .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
+    background-color: #252525;
     display: block;
+    color: #eee;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial;
 }
 
     .dropdown-content a:hover {
-        background-color: #ddd;
+        background-color: #eee;
     }
 
 .dropdown:hover .dropdown-content {
@@ -146,5 +158,6 @@ webpage {
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #3e8e41;
+    background-color: #eee;
+    color:green;
 }
