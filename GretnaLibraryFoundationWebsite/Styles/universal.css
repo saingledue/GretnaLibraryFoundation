@@ -28,6 +28,7 @@ img {
 
 html {
     background-color: #869b50;
+    align-content:center;
 }
 
 .paragraph {
@@ -158,9 +159,10 @@ webpage {
 }
 
 #donate {
-    width: 100px;
-    height: 100px;
-    margin-left: 1150px;
+    width: 200px;
+    height: 200px;
+    margin-left: 1025px;
+    margin-top: 25px;
 }
 
 .gret {
