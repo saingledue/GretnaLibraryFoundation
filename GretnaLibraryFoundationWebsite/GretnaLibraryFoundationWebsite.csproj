@@ -77,20 +77,23 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="aboutcampaign.html" />
     <Content Include="contact.html" />
     <Content Include="faq.html" />
     <Content Include="history.html" />
+    <Content Include="Images\Conclusion.jpg" />
     <Content Include="Images\donateButton.png" />
+    <Content Include="Images\Executive Summary.jpg" />
     <Content Include="Images\GretnaLogo.jpg" />
+    <Content Include="Images\number1.jpg" />
+    <Content Include="Images\number2.jpg" />
+    <Content Include="Images\number3.jpeg" />
+    <Content Include="Images\number4.JPG" />
     <Content Include="Index.html" />
-    <Content Include="mission.html" />
     <Content Include="proof.html" />
     <Content Include="Styles\history.css" />
     <Content Include="Styles\index.css" />
     <Content Include="Styles\proof.css" />
     <Content Include="Styles\universal.css" />
-    <Content Include="vision.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
