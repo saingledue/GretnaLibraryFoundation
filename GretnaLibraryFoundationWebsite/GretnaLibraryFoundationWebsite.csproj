@@ -68,6 +68,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\Gretna 2018 Study Conclusions.pdf" />
+    <Content Include="Images\Gretna 2018 Study Exec Summary.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
